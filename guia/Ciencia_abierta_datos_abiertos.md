@@ -31,17 +31,25 @@ Algunas prácticas y herramientas de ciencia abierta que apoyan y enriquecen el 
 
 La ciencia abierta va más allá de las herramientas. También abarca un conjunto de valores que priorizan la colaboración y la equidad en la generación del conocimiento. En el fondo, la ciencia abierta cuestiona cómo se realiza la investigación científica que históricamente ha excluído regiones, personas y algunos tipos de conocimiento. Propone alternativas para colaborar y difundir los productos de la investigación de una forma más equitativa, inclusiva y justa. En el Manifiesto de la Ciencia Abierta y Colaborativa de OCSDnet, se proponen una serie de principios que enmarcan las herramientas que ya se mencionaron [Ref].
 
+!(figuras/ciencia_abierta_OCSDNet.jpg)
+
 
 ## Datos abiertos
 
 > "Datos abiertos son datos que son puestos a disposición con las características técnicas y jurídicas necesarias para que puedan ser usados, reutilizados y redistribuidos libremente por cualquier persona, en cualquier momento y en cualquier lugar.”
 > Carta Internacional de Datos Abiertos: https://opendatacharter.net/principles-es/
 
-¿Qué hace que un conjunto de datos sea abierto? Por un lado, las características técnicas se refieren, como mínimo, a que los datos se compartan en formatos no propietarios y que sean legibles por computadoras. Por otro lado, las características jurídicas se refieren a que los datos tengan asignada una licencia de uso. Las licencias son herramientas legales que definen las condiciones en las que se pueden usar los datos. Las licencias recomendadas para datos abiertos son:
+¿Qué hace que un conjunto de datos sea abierto? Por un lado, las características técnicas se refieren, como mínimo, a que los datos se compartan en formatos no propietarios y que sean legibles por computadoras. 
+
+!(figuras/formatos_no_propietarios.png)
+
+Por otro lado, las características jurídicas se refieren a que los datos tengan asignada una licencia de uso. Las licencias son herramientas legales que definen las condiciones en las que se pueden usar los datos. Las licencias recomendadas para datos abiertos son:
 
 * Creative Commons de atribución (CC BY). Permite compartir y adaptar sin restricciones, con el requisito de dar atribución a quienes generaron o publicaron los datos.
 
 * Dominio público (CC0). Permite compartir y adaptar sin restricciones. 
+
+!(figuras/licencias_abiertas.jpg)
 
 Aunque a veces se usan los términos de forma indistinta, público no es lo mismo que abierto. Sin una licencia explícita que nos indique cómo podemos usar los datos, no debemos asumir que son abiertos, incluso si están disponibles de forma pública sin costo.
 
