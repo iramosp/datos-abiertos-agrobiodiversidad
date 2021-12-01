@@ -1,6 +1,6 @@
 # Guía de datos abiertos de agrobiodiversidad
 
-!(figuras/portada.)
+!(./figuras/portada.jpg)
 
 
 ## Capítulos
