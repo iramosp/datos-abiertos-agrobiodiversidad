@@ -18,7 +18,7 @@ Hay muchos obstáculos técnicos o humanos que limitan el uso de los datos. Para
 
 Esta sección está inspirada por los principios FAIR (las siglas en inglés de Findable, Accesible, Interoperable y Reusable). Estos principios son recomendaciones orientadas a facilitar el manejo de datos científicos. Aunque originalmente se definieron pensando en las computadoras, las recomendaciones también facilitan el uso de datos por personas. Entonces se trata de recomendaciones técnicas, con un componente humano.
 
-!(./figuras/FAIR.jpg)
+![FAIR](./figuras/FAIR.jpg)
 
 ## Encontrar
 
@@ -34,7 +34,7 @@ Los repositorios son plataformas en línea donde se guardan contenidos digitales
 * Temáticos. Se enfocan a materiales de un tema en particular, por lo que generalmente guardan contenidos especializados, proveen servicios de curación y generalmente requieren un proceso minucioso para subir materiales. Ejemplo: Sistema Nacional de Información de Biodiversidad de CONABIO.
 * Múltiples disciplinas. Repositorios generales que guardan una gran diversidad de contenidos y temas. Ejemplo: Repositorio Nacional de CONACYT, DRYAD, Zenodo o Figshare.
 
-!(./figuras/ejemplo_repositorios.jpg)
+![Repositorios](./figuras/ejemplo_repositorios.jpg)
 
 ### Metadatos
 
@@ -52,12 +52,12 @@ Estos aspectos son importantes porque de ellos depende la interpretación de los
 
 El siguiente ejemplo ilustra los metadatos de un conjunto de datos sobre la distribución potencial del algodón silvestre en México, obtenido del Geoportal de CONABIO. El archivo de metadatos es muy detallado. Para empezar incluye el nombre del conjunto de datos, el autor, la fecha de publicación, los formatos en los que está disponible para su descarga y la licencia de uso.
 
-!(./figuras/ejemplo_metadatos_1.jpg)
+![Ejemplo metadatos 1](./figuras/ejemplo_metadatos_1.jpg)
 
 
 Cada sección de los metadatos contiene información suplementaria. Aquí se detalla el procedimiento que se usó para generar la distribución potencial del algodón, el por qué se generaron los datos y quiénes fueron responsables de los modelos e insumos usados para producir la base publicada. También se incluye un diccionario de datos, que es una descripción del contenido suficientemente detallada para que cualquier persona pueda entener; para cada columna del conjunto de datos, el diccionario describe su nombre, contenido, formato y valores permitidos. 
 
-!(./figuras/ejemplo_metadatos_2.jpg)
+![Ejemplo metadatos 2](./figuras/ejemplo_metadatos_2.jpg)
 
 ## Acceder
 
@@ -75,11 +75,11 @@ Veamos un ejemplo:
 
 Aquí tenemos tres tablas sobre información taxonómica, geográfica y de uso del maíz y del chile. Si tenemos las tablas por separado, podemos hacer consultas aisladas, por ejemplo, ¿en qué estados y municipios se encuentra el chile? o ¿qué usos se le da al maíz? 
 
-!(./figuras/vincular_datos_1.jpg)
+![Vincular datos 1](./figuras/vincular_datos_1.jpg)
 
 En cambio, si tuviéramos una columna en común que permitiera vincular las tablas, como el nombre en español de la especie, entonces podríamos hacer consultas más complejas. Podríamos responder en una sola consulta cuál es el nombre científico del chile, dónde se encuentra y para qué se usa.
 
-!(./figuras/vincular_datos_2.jpg)
+![Vincular datos 2](./figuras/vincular_datos_2.jpg)
 
 ### Estándares de datos
 
@@ -87,7 +87,7 @@ En cambio, si tuviéramos una columna en común que permitiera vincular las tabl
 
 Los estándares son acuerdos que se han desarrollado para usar los datos en un mismo formato y estructura: va desde cómo se nombran los campos hasta cómo se relacionan entre sí. Por ejemplo, el estándar Darwin Core define cómo presentar los datos biológicos y geográficos para biodiversidad, así que representa un lenguaje común para publicar este tipo de datos. Es el estándar que siguen los ejemplares del SNIB en CONABIO, y esto hace posible que los datos de otras instituciones que publican datos de biodiversidad en el mundo y que siguen este mismo estándar se puedan centralizar en un gran repositorio que es el GBIF. El desarrollo de estándares para biodiversidad ha sido un paso muy importante para entender patrones globales de biodiversidad, pues las investigaciones se basan en la integración de datos muy diversos pero estandarizados.
 
-!(./figuras/GBIF.png)
+![GBIF](./figuras/GBIF.png)
 
 Uno de los retos de datos de agrobiodiversidad es que los estándares para datos sociales, culturales y de manejo están muy poco desarrollados a comparación de los datos biológicos o geográficos. Esto hace que sea difícil vincular datos de agrobiodiversidad. Por ejemplo: mantener integrados los componentes biológicos con los componentes sociales y culturales. Un ejemplo de estándares para este tipo de datos es la taxonomía de los usos y manejo de la biodiversidad de México de CONABIO [Ref]. 
 
@@ -101,5 +101,5 @@ Los datos abiertos tienen la ventaja de que otras personas además de quienes lo
 
 Los datos son productos de investigación valiosos y se pueden publicar y citar de forma independiente a los artículos de investigación derivados, por ejemplo, en un repositorio. La forma apropiada de citar los datos es parecida a las citas de otras publicaciones académicas, desde el nombre de los autores, hasta. Aquí mostramos un ejemplo:
 
-!(./figuras/citar_datos.jpg)
+![Citar datos](./figuras/citar_datos.jpg)
 
