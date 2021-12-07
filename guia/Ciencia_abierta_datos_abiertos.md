@@ -29,7 +29,8 @@ Algunas prácticas y herramientas de ciencia abierta que apoyan y enriquecen el 
 * Datos abiertos.
 
 
-La ciencia abierta va más allá de las herramientas. También abarca un conjunto de valores que priorizan la colaboración y la equidad en la generación del conocimiento. En el fondo, la ciencia abierta cuestiona cómo se realiza la investigación científica que históricamente ha excluído regiones, personas y algunos tipos de conocimiento. Propone alternativas para colaborar y difundir los productos de la investigación de una forma más equitativa, inclusiva y justa. En el Manifiesto de la Ciencia Abierta y Colaborativa de OCSDnet, se proponen una serie de principios que enmarcan las herramientas que ya se mencionaron [Ref].
+La ciencia abierta va más allá de las herramientas. También abarca un conjunto de valores que priorizan la colaboración y la equidad en la generación del conocimiento. En el fondo, la ciencia abierta cuestiona cómo se realiza la investigación científica que históricamente ha excluído regiones, personas y algunos tipos de conocimiento. Propone alternativas para colaborar y difundir los productos de la investigación de una forma más equitativa, inclusiva y justa. En el [Manifiesto de la Ciencia Abierta y Colaborativa de OCSDnet](https://ocsdnet.org/wp-content/uploads/2015/04/Manifesto-Infographic-Spanish-1.pdf
+), se proponen una serie de principios que enmarcan las herramientas que ya se mencionaron.
 
 ![Ciencia abierta](./figuras/ciencia_abierta_OCSDNet.jpg)
 
@@ -43,9 +44,9 @@ La ciencia abierta va más allá de las herramientas. También abarca un conjunt
 
 ![Formatos](./figuras/formatos_no_propietarios.png)
 
-Por otro lado, las características jurídicas se refieren a que los datos tengan asignada una licencia de uso. Las licencias son herramientas legales que definen las condiciones en las que se pueden usar los datos. Las licencias recomendadas para datos abiertos son:
+Por otro lado, las características jurídicas se refieren a que los datos tengan asignada una [licencia de uso](https://creativecommons.org/licenses/?lang=es). Las licencias son herramientas legales que definen las condiciones en las que se pueden usar los datos. Las licencias recomendadas para datos abiertos son:
 
-* Creative Commons de atribución (CC BY). Permite compartir y adaptar sin restricciones, con el requisito de dar atribución a quienes generaron o publicaron los datos.
+* [Creative Commons de atribución (CC BY)](https://creativecommons.org/licenses/by/4.0/deed.es). Permite compartir y adaptar sin restricciones, con el requisito de dar atribución a quienes generaron o publicaron los datos.
 
 * Dominio público (CC0). Permite compartir y adaptar sin restricciones. 
 
@@ -63,7 +64,7 @@ Conservar la agrobiodiversidad requiere colaboración respaldada por informació
 
 ## Datos abiertos en CONABIO
 
-Desde su creación, CONABIO tiene un compromiso como institución para publicar datos abiertos. Este compromiso se basa en los siguientes principios [Ref]:
+Desde su creación, CONABIO tiene un compromiso como institución para publicar datos abiertos [Ref]. Este compromiso se basa en los siguientes principios:
 
 * Publicar datos primarios desagregados y en formatos operables por computadoras.
 * Diseñar sistemas de información electrónicos.
