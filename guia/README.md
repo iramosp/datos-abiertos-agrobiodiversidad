@@ -2,11 +2,11 @@
 
 ![portada](./figuras/portada.jpg)
 
-Esta guía es parte de los materiales desarrollados para el Sistema de Información de Agrobiodiversidad, dentro del [Proyecto GEF de Agrobiodiversidad Mexicana](https://biodiversidad.gob.mx/diversidad/proyectos/agrobiodiversidadmx) de CONABIO.
+Esta guía es parte de los materiales desarrollados para el Sistema de Información de Agrobiodiversidad (SIAgroBD), dentro del [Proyecto GEF de Agrobiodiversidad Mexicana](https://biodiversidad.gob.mx/diversidad/proyectos/agrobiodiversidadmx) de CONABIO. La guía adapta los materiales del Taller de Datos abiertos sobre agrobiodiversidad, que se pueden consultar [aquí](https://doi.org/10.5281/zenodo.6640643).
 
 ## Objetivo
 
-El objetivo de esta guía es introducir herramientas y prácticas de datos abiertos relevantes para la investigación sobre agrobiodiversidad y agroecosistemas tradicionales. Brindaremos una introducción a habilidades básicas de manejo de datos para reusar los datos del SIAgro y resaltaremos la colaboración como principio para la construcción de bases de datos. También compartiremos recursos para seguir aprendiendo sobre estos temas. 
+El objetivo de esta guía es introducir herramientas y prácticas de datos abiertos relevantes para la investigación sobre agrobiodiversidad y agroecosistemas tradicionales. Brindaremos una introducción a habilidades básicas de manejo de datos para reusar los datos del SIAgroBD y resaltaremos la colaboración como principio para la construcción de bases de datos. También compartiremos recursos para seguir aprendiendo sobre estos temas. 
 
 ## Capítulos
 
@@ -18,7 +18,9 @@ El objetivo de esta guía es introducir herramientas y prácticas de datos abier
 
 ## Agradecimientos
 
-La guía está coordinada por Irene Ramos, con contribuciones de Alicia Mastretta y del equipo de agrobiodiversidad en CONABIO.
+La guía está coordinada por [Irene Ramos](https://github.com/iramosp), con contribuciones de [Alicia Mastretta](https://github.com/AliciaMstt) y del equipo de agrobiodiversidad en CONABIO.
+
+Esta guía se deriva del Taller Datos abiertos de agrobiodiversidad, organizado como parte del programa [Open Life Science](https://openlifesci.org/), con la mentoría de [Piv Gopalasingam](https://github.com/pivg).
 
 ## Licencia
 
@@ -27,6 +29,4 @@ El contenido de esta guía se comparte bajo una licencia Creative Commons de Atr
 ## Contacto
 
 Si te interesa colaborar, compartir tus dudas o comentarios, por favor contacta a [Irene Ramos](mailto:iramos@conabio.gob.mx).
-
-
 
