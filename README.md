@@ -40,9 +40,9 @@ We are designing a workshop on open data for agrobiodiversity researchers in Mex
 
 * A workshop and a handbook on open data to encourage contributors to become active users of data apart from collectors.
 
-## :sparkles: Updates :sparklets:
+## :sparkles: Updates :sparkles:
 
-* We are adapting workshop materials into a handbook for open agrobiodiversity data. See our work in progress [here](./guia) (in Spanish).
+* We are adapting workshop materials into a **handbook** for open agrobiodiversity data. See our work in progress [here](./guia) (in Spanish).
 * [Materials for the workshop](https://doi.org/10.5281/zenodo.6640643) (in Spanish).
 * Learn more about the workshop results in this [talk](https://doi.org/10.6084/m9.figshare.19388774.v1) at the RDA IGAD CoP Annual Meeting (in Spanish).
 * Learn more about other capacity building activities in CONABIO in this [blog](http://aims.fao.org/es/news/conabio-and-siagro-capacity-development-open-agrobiodiversity-data) at AIMS-FAO.
@@ -66,7 +66,7 @@ README was inspired by [STEMM Role Models App](https://github.com/KirstieJane/ST
 
 Gracias por visitar el repositorio del Taller *Datos abiertos de agrobiodiversidad*. Conoce más del proyecto abajo.
 
-## El proyecto
+## :seedling: El proyecto
 
 ### Visión
 
@@ -82,9 +82,9 @@ Diseñamos un taller sobre datos abiertos para personas que hacen investigación
 
 * Un taller y una guía de datos abiertos para motivar a las personas que realizan colectas a reusar los datos.
 
-## :sparkles: Noticias :sparklets:
+## :sparkles: Noticias :sparkles:
 
-* Estamos adpatando los materiales del taller a una guía de datos abiertos. Aquí puedes consultar nuestro [avance](./guia).
+* Estamos adpatando los materiales del taller a una **guía de datos abiertos**. Aquí puedes consultar nuestro [avance](./guia).
 * [Materiales del taller](https://doi.org/10.5281/zenodo.6640643).
 * Conoce más sobre los resultados del taller en esta [charla](https://doi.org/10.6084/m9.figshare.19388774.v1) en la Reunión Anual de la Comunidad de Práctica RDA-IGAD.
 * Conoce más sobre otras actividades de capacitación para datos abiertos de CONABIO en este [blog](http://aims.fao.org/es/news/conabio-and-siagro-capacity-development-open-agrobiodiversity-data) del portal AIMS-FAO.
